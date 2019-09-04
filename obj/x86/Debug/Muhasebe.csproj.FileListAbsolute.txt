@@ -1,0 +1,42 @@
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\Muhasebe\bin\Debug\Muhasebe.exe
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\Muhasebe\bin\Debug\Muhasebe.pdb
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\Muhasebe\obj\x86\Debug\Muhasebe.Form1.resources
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\Muhasebe\obj\x86\Debug\Muhasebe.Properties.Resources.resources
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\Muhasebe\obj\x86\Debug\Muhasebe.csproj.GenerateResource.Cache
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\Muhasebe\obj\x86\Debug\Muhasebe.exe
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\Muhasebe\obj\x86\Debug\Muhasebe.pdb
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\Muhasebe\obj\x86\Debug\Muhasebe.Form2.resources
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\Muhasebe\obj\x86\Debug\Muhasebe.Form3.resources
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\Muhasebe\obj\x86\Debug\Muhasebe.csprojResolveAssemblyReference.cache
+D:\Muhasebe\obj\x86\Debug\Muhasebe.exe
+D:\Muhasebe\obj\x86\Debug\Muhasebe.pdb
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\obj\x86\Debug\Muhasebe.exe
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\obj\x86\Debug\Muhasebe.pdb
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\bin\Debug\Muhasebe.exe
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\bin\Debug\Muhasebe.pdb
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\obj\x86\Debug\Muhasebe.csprojResolveAssemblyReference.cache
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\obj\x86\Debug\Muhasebe.Form1.resources
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\obj\x86\Debug\Muhasebe.Form2.resources
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\obj\x86\Debug\Muhasebe.Form3.resources
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\obj\x86\Debug\Muhasebe.Properties.Resources.resources
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\obj\x86\Debug\Muhasebe.csproj.GenerateResource.Cache
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\obj\x86\Debug\Muhasebe.Form4.resources
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\obj\x86\Debug\Muhasebe.Form5.resources
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\obj\x86\Debug\Muhasebe.Form6.resources
+D:\Mehmet Ali Sahilli\Programs Documents\Muhasebe\obj\x86\Debug\Muhasebe.Form7.resources
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\obj\x86\Debug\Muhasebe.exe
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\obj\x86\Debug\Muhasebe.pdb
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\bin\Debug\Muhasebe.exe
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\bin\Debug\Muhasebe.pdb
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\obj\x86\Debug\Muhasebe.csprojResolveAssemblyReference.cache
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\obj\x86\Debug\Muhasebe.Form1.resources
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\obj\x86\Debug\Muhasebe.Form2.resources
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\obj\x86\Debug\Muhasebe.Form3.resources
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\obj\x86\Debug\Muhasebe.Form4.resources
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\obj\x86\Debug\Muhasebe.Form5.resources
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\obj\x86\Debug\Muhasebe.Form6.resources
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\obj\x86\Debug\Muhasebe.Form7.resources
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\obj\x86\Debug\Muhasebe.Properties.Resources.resources
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\obj\x86\Debug\Muhasebe.csproj.GenerateResource.Cache
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\obj\x86\Debug\Muhasebe.Form8.resources
+D:\Mehmet Ali Sahilli\Sopri Software and Robotics\Sopri Software C#\Temel Seviye C#\Application Cemetery\Muhasebe\obj\x86\Debug\Muhasebe.Form9.resources
