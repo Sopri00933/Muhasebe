@@ -32,7 +32,7 @@ namespace Muhasebe
                 cmd = new OleDbCommand();
                 con.Open();
                 cmd.Connection = con;
-                cmd.CommandText = "SELECT * FROM welcome where user='" + textBox1.Text + "' AND pass='" + textBox2.Text + "'";
+                cmd.CommandText = "SELECT * FROM sign_in where user='" + textBox1.Text + "' AND pass='" + textBox2.Text + "'";
                 dr = cmd.ExecuteReader();
 
                 if (dr.Read())

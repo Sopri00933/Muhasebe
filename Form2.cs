@@ -17,7 +17,7 @@ namespace Muhasebe
         {
             InitializeComponent();
         }
-        OleDbConnection baglanti = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=muhasebe.accdb Persist Security Info=True");
+        OleDbConnection baglanti = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=muhasebe.accdb");
         private void button3_Click(object sender, EventArgs e)
         {
             DialogResult cevap = new DialogResult();
@@ -53,7 +53,7 @@ namespace Muhasebe
                 kaydet.ExecuteNonQuery();
 
                 baglanti.Close();
-                MessageBox.Show("Kayıt işlemi başarılı");
+                MessageBox.Show("Hesaplar Değiştirildi");
                 baglanti.Close();
             }
             catch (Exception hata)

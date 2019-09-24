@@ -35,16 +35,16 @@ namespace Muhasebe
                 string pass = textBox2.Text;
 
                 baglanti.Open();
-                OleDbCommand kaydet = new OleDbCommand("insert into welcome(user,pass) values ('" + user + "','" + pass + "')", baglanti);
+                OleDbCommand kaydet = new OleDbCommand("INSERT INTO sign_in (user,pass) values('" + user + "','" + pass + "')", baglanti);
                 kaydet.ExecuteNonQuery();
 
                 baglanti.Close();
-                MessageBox.Show("Şifre Koyuldu");
+                MessageBox.Show("Kullanıcı Adı Ve Şifre Koyuldu");
                 baglanti.Close();
             }
             catch (Exception hata)
             {
-                label4.Text = "Hata! " + hata.Message;
+                MessageBox.Show("Hata! " + hata.Message);
             }
             finally
             {
@@ -57,27 +57,6 @@ namespace Muhasebe
                     }
                 }
                 baglanti.Close();
-            }
-        }
-
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
-        {
-            if (checkBox1.Checked)
-            {
-                textBox2.PasswordChar = '\0';
-            }
-            else
-            {
-                textBox2.PasswordChar = '*';
-            }
-        }
-
-        private void textBox2_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            if (textBox2.TextLength == 8)
-            {
-                e.Handled = true;
-                label4.Text = "Şifreniz En Fazla 8 Karakter Uzunluğunda Olmalı";
             }
         }
     }

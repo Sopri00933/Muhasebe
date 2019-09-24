@@ -25,7 +25,7 @@ namespace Muhasebe
                 string sifre = textBox2.Text;
 
                 baglanti.Open();
-                OleDbCommand kaydet = new OleDbCommand("UPDATE welcome set  pass = '" + sifre + "' where user='" + textBox1.Text + "'", baglanti);
+                OleDbCommand kaydet = new OleDbCommand("UPDATE sign_in set  pass = '" + sifre + "' where user='" + textBox1.Text + "'", baglanti);
                 kaydet.ExecuteNonQuery();
 
                 baglanti.Close();
